@@ -39,9 +39,9 @@ h1 {
 .inner-table .right {
   background: #4293f7d9;
 }
-cave-grid {
-    background: #2a9afcba;
-    border: 1px solid #bbb;
+.cave-grid {
+    background: #2a9afcba !important;
+    border: 1px solid #0a2870 !important;
 }
 table {
     border: 1px solid #2228a2;
