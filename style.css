@@ -1,6 +1,7 @@
 body {
   background-image: url(https://img1.picmix.com/output/stamp/normal/7/9/8/4/1814897_ca6b0.gif);
   color: #fff;
+  font-family: cursive;
 }
 .topbar {
   background-color: #0886ffb3;
@@ -38,4 +39,20 @@ h1 {
 .inner-table .right {
   background: #4293f7d9;
 }
-Add Lioden custom CSS
+cave-grid {
+    background: #2a9afcba;
+    border: 1px solid #0a2870;
+}
+.table {
+    border: 1px solid #2228a2;
+}
+.mound-grid {
+    background: #0e86ff96;
+    border: 1px solid #0a2870
+ }
+div .left {
+    background: #269ff894;
+}
+h3 {
+    color: #ffffff;
+}
