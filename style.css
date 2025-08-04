@@ -42,6 +42,17 @@ h1 {
 .cave-grid {
     background: #2a9afcba;
     border: 1px solid #0a2870;
+      border-radius: 5px;
+    max-width
+Allows authors to constrain content width to a certain range.
+Saiba mais
+
+Não mostrar
+: 260px;
+    overflow: hidden;
+    padding: 0 0 5px 0;
+    margin: 0 auto;
+    margin-bottom: 15px;
 }
 table {
     border: 1px solid #2228a2;
