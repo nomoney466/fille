@@ -43,10 +43,10 @@ cave-grid {
     background: #2a9afcba;
     border: 1px solid #0a2870;
 }
-.table {
+table {
     border: 1px solid #2228a2;
 }
-.mound-grid {
+mound-grid {
     background: #0e86ff96;
     border: 1px solid #0a2870
  }
