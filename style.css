@@ -1,0 +1,41 @@
+body {
+  background-image: url(https://img1.picmix.com/output/stamp/normal/7/9/8/4/1814897_ca6b0.gif);
+  color: #fff;
+}
+.topbar {
+  background-color: #0886ffb3;
+}
+.main {
+  background-color: #4c73e654;
+}
+.navbar {
+  background-color: #1d7bfaa8;
+}
+.col-md-9 {
+  background-color: #1d7bfaa8;
+}
+.breadcrumb {
+  background: #0093ffa1;
+}
+.breadcrumb>.active {
+  color: #ffffff;
+}
+a:link, a:visited, a:active {
+  color: #fff;
+}
+h1 {
+  color: #fff;
+}
+.table .top, .table th {
+  background-color: #0886ffa1;
+}
+.table .bottom {
+  background-color: #0886ffa1;
+}
+.table .left {
+  background: #4566d0;
+}
+.inner-table .right {
+  background: #4293f7d9;
+}
+Add Lioden custom CSS
